@@ -56,7 +56,7 @@ if choice ==1
     disp(['Choose a directory to save path file']);
     pathname = uigetdir;
     file_name = input(['Input file name for saved path file (ascii - use single quotes):  ']);
-    file_name_ascii = [pathname '\' file_name '.txt']
+    file_name_ascii = [pathname '/' file_name '.txt']
     save(file_name_ascii,'pathg','-ascii');  
 else
 end
