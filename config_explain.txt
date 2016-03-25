@@ -1,0 +1,12 @@
+10e9        % radar center frequency (Hz)
+4.015e8     % radar transmitter bandwidth (Hz)
+1.0e12      % input chirp rate (Hz/sec)
+163.5       % pulse rep rate
+1.0e6       % input video a/d sample rate after deramp (Hz)
+150         % footprint (m)
+0.1         % signal to noise 
+path to tx path file (i.e., path.txt)
+path to rx path file (i.e., path.txt)
+path to tgtfile.txt
+path to point.txt
+path to phr.txt

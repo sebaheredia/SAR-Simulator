@@ -1,0 +1,12 @@
+10e9        
+4.015e8     
+1.0e12      
+163.5      
+1.0e6       
+150         
+0.1        
+/Users/thepepper/Documents/MATLAB/Radar/SAR_Sim/path.txt
+/Users/thepepper/Documents/MATLAB/Radar/SAR_Sim/path.txt
+/Users/thepepper/Documents/MATLAB/Radar/SAR_Sim/tgtfile.txt
+/Users/thepepper/Documents/MATLAB/Radar/SAR_Sim/point.txt
+/Users/thepepper/Documents/MATLAB/Radar/SAR_Sim/phr.txt
