@@ -5,8 +5,8 @@
 1.0e6       
 150         
 0.1        
-/Users/thepepper/Documents/MATLAB/SAR_Sim/path.txt
-/Users/thepepper/Documents/MATLAB/SAR_Sim/path.txt
-/Users/thepepper/Documents/MATLAB/SAR_Sim/tgtfile.txt
-/Users/thepepper/Documents/MATLAB/SAR_Sim/point.txt
-/Users/thepepper/Documents/MATLAB/SAR_Sim/phr.txt
+/Users/thepepper/Documents/MATLAB/SAR-Simulator/path.txt
+/Users/thepepper/Documents/MATLAB/SAR-Simulator/path.txt
+/Users/thepepper/Documents/MATLAB/SAR-Simulator/tgtfile.txt
+/Users/thepepper/Documents/MATLAB/SAR-Simulator/point.txt
+/Users/thepepper/Documents/MATLAB/SAR-Simulator/phr.txt

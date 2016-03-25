@@ -16,7 +16,7 @@ function [] = write_32bitIQ_phr(im)
 name = input(['Input complex phase history filename to save: ']);
 disp(['Choose path to save complex image file']);
 path = uigetdir;
-fname = [path '\' name]; % file to write to
+fname = [path '/' name]; % file to write to
 
 type = 'float32'; 
 img = im(:);

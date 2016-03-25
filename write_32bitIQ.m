@@ -17,7 +17,7 @@ name = input(['Input complex image filename to save: ']);
 disp(['Choose path to save complex image file']);
 path = uigetdir;
 %name = input(['Input complex image filename to save: ']);
-fname = [path '\' name]; % file to write to
+fname = [path '/' name]; % file to write to
 
 type = 'float32'; 
 img = im(:);
