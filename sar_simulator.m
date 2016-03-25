@@ -1,6 +1,6 @@
 % Script - SAR Simulator
 % Filename:         sar_simulator.m
-
+% Author:           drohm
 % This script is used to initialize and call the functions for simulating a
 % synthetic aperture radar collection.  
 %==========================================================================
