@@ -29,5 +29,5 @@ for i = 1:npass
 end
 %% Convolution Back Projection
 for i = 1:npass
-    image = cbp_work(n);        % convolution backprojection image formation
+    image = gcbp_work(n);        % convolution backprojection image formation
 end

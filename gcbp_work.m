@@ -1,4 +1,4 @@
-function image = cbp_work(n)
+function image = gcbp_work(n)
 %
 % Filename:         cbp_work.m
 %
